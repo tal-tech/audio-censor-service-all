@@ -1,0 +1,6 @@
+4ae6648047c3fac62af382147288c2ce  cs.asr.e2e.Pgen.Achr.V2.1.0/bpe.model
+a1e467d9d92a369d4628a0fb275cf5a2  cs.asr.e2e.Pgen.Achr.V2.1.0/cmvn.ark
+68f1078ff36de88e9e329e4246bf2795  cs.asr.e2e.Pgen.Achr.V2.1.0/config.json
+d1d1cfcacb924f8cc3f27941d1c78424  cs.asr.e2e.Pgen.Achr.V2.1.0/model.pt
+1b255383eb6b9b3b42adcce9e1387180  cs.asr.e2e.Pgen.Achr.V2.1.0/readme.txt
+4cfaebd0ebef18a8b2ac813cb0f10183  cs.asr.e2e.Pgen.Achr.V2.1.0/words_dict.txt

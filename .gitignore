@@ -1,0 +1,5 @@
+audio-censor-service/res/model.pt
+audio-censor-service/debug/lib/debug/libbase.a
+audio-censor-service/lib/libtorch_cuda.so
+audio-censor-service/lib/libtorch_cpu.so
+offline-asr-sub-asr-child-ch/res/HCLG.fst
